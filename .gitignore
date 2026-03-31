@@ -1,0 +1,15 @@
+# Local environment and runtime artifacts
+config.php
+config_override.php
+suitecrm.log
+install.log
+cache/
+upload/
+
+# Node/build artifacts
+crm-kanban-view-main/node_modules/
+crm-kanban-view-main/dist/
+
+# IDE
+.cursor/
+
